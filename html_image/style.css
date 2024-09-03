@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+.me{
+    background-color: lightblue;
+    color: beige;
+    margin: auto;
+}
+
+.man {
+    overflow: hidden;
+    float: left;
+    background-color: blueviolet;
+    color: red;
+    border-radius: 4px;
+    margin: auto;
+    padding: 45px;
+}
+.man li {
+    padding: 30px;
+}
+.man a {
+    text-decoration: none;
+}

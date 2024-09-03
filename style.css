@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+.my_tools {
+    overflow: hidden;
+    background-color: lightblue;
+}
+
+.my_tools a {
+    float: left;
+    font-size: 27px;
+    color: darkorange;
+    text-align: center;
+    padding: 32px 100px;
+    text-decoration: none;
+    justify-content: center;
+}
+.man{
+    overflow: hidden;
+    background-color: yellowgreen;
+    float: left;
+    border-radius: 4px;
+    margin: auto;
+    padding: 35px;
+}
+li{
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+}
